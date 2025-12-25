@@ -11,7 +11,7 @@ I design **AI-powered backends**, **LLM pipelines**, and **data-driven products*
 <a href="https://github.com/priyam-that"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
 <a href="https://linkedin.com/in/priyammanna"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
 <a href="https://dev.to/black10dev"><img src="https://skillicons.dev/icons?i=devto" height="35"/></a>
-<a href="https://medium.com/mannablogs"><img src="https://skillicons.dev/icons?i=medium" height="35"/></a>
+<a href="https://medium.com/@mannablogs"><img src="https://skillicons.dev/icons?i=medium" height="35"/></a>
 <a href="https://instagram.com/priyam__manna"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
 <a href="https://leetcode.com/priyamthat"><img src="https://skillicons.dev/icons?i=leetcode" height="35"/></a>
 </p>
@@ -76,10 +76,9 @@ I design **AI-powered backends**, **LLM pipelines**, and **data-driven products*
 
 ## 📈 GitHub
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=priyam-that&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=priyam-that&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://YOUR-STATS-URL.vercel.app/api?username=priyam-that&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://YOUR-STREAK-URL.vercel.app?user=priyam-that&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
 ---
 
 **Currently building:** LLM systems • AI APIs • data platforms 🚀
