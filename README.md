@@ -6,7 +6,7 @@
 ### About Me
 - 🔭 Building scalable, real-time full-stack applications  
 - 🌱 Exploring advanced microservices and real-time data pipelines  
-- 👯 Open to collaborating on FastAPI, React, or Data projects  
+- 👯 Open to collaborating on FastAPI Backend or Data Science projects  
 - 💬 Ask me about Python backend, WebSockets, Docker, or Pandas  
 - ⚡ Fun fact: I automate everything and love clean, efficient code!
 
