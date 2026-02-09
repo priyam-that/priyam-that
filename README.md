@@ -1,6 +1,4 @@
-### 👋 Hi there, I'm Priyam
-
-- *Python Backend Developer*
+- *Engineer and Builder*
 - *Working with Python, FastAPI, PostgreSQL, Docker, REST APIs*
 
 - *[LinkedIn](https://www.linkedin.com/in/priyammanna/) | 
